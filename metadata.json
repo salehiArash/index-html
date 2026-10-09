@@ -1,0 +1,6 @@
+{
+  "name": "MetaFekr AI Education Platform",
+  "description": "پلتفرم جامع آموزش هوش مصنوعی متافکر شامل دوره های تخصصی، ویدیو های آموزشی رایگان، مقالات علمی و نمونه پروژه های هوش مصنوعی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
